@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+mysqlclient
+alembic
+authlib
+itsdangerous
+httpx
+pyjwt
+pyjwt[crypto]
+cryptography
