@@ -1,0 +1,1392 @@
+[
+    {
+        "name": "Kazlıçeşme Sahil (TAŞINDI)",
+        "latitude": 40.986897,
+        "longitude": 28.910861
+    },
+    {
+        "name": "Bakırköy Sahil",
+        "latitude": 40.975759,
+        "longitude": 28.880544
+    },
+    {
+        "name": "Sakızağacı Parkı",
+        "latitude": 40.979311,
+        "longitude": 28.888124
+    },
+    {
+        "name": "Derne Parkı Taşındı",
+        "latitude": 41.064867,
+        "longitude": 28.943001
+    },
+    {
+        "name": "Alibeyköy Cep Otogarı Sabit",
+        "latitude": 41.087845,
+        "longitude": 28.944354
+    },
+    {
+        "name": "Balat",
+        "latitude": 41.03618,
+        "longitude": 28.946163
+    },
+    {
+        "name": "Hüseyinağa Camiii",
+        "latitude": 41.035201,
+        "longitude": 28.980742
+    },
+    {
+        "name": "Taksim Gezi Parkı",
+        "latitude": 41.03914,
+        "longitude": 28.987497
+    },
+    {
+        "name": "Küçükköy meydan",
+        "latitude": 41.069776,
+        "longitude": 28.907468
+    },
+    {
+        "name": "Dolmabahçe Camii",
+        "latitude": 41.036624,
+        "longitude": 28.994993
+    },
+    {
+        "name": "Kısıklı Millet Parkı",
+        "latitude": 41.023439,
+        "longitude": 29.055686
+    },
+    {
+        "name": "Kapalıçarşı",
+        "latitude": 41.010548,
+        "longitude": 28.967892
+    },
+    {
+        "name": "Maçka Demokrasi Parkı",
+        "latitude": 41.043945,
+        "longitude": 28.993371
+    },
+    {
+        "name": "Vaniköy Parkı",
+        "latitude": 41.069031,
+        "longitude": 29.057108
+    },
+    {
+        "name": "Şehremini Alt geçit",
+        "latitude": 41.014321,
+        "longitude": 28.935009
+    },
+    {
+        "name": "Sultanahmet Yer Altı",
+        "latitude": 41.007584,
+        "longitude": 28.977366
+    },
+    {
+        "name": "Emirgan Korusu Modüler",
+        "latitude": 41.107973,
+        "longitude": 29.04844
+    },
+    {
+        "name": "Edirnekapı Parkı",
+        "latitude": 41.029833,
+        "longitude": 28.936415
+    },
+    {
+        "name": "Aksaray Yer Altı Çarşısı",
+        "latitude": 41.009029,
+        "longitude": 28.952816
+    },
+    {
+        "name": "Aksaray Metro Alt geçit",
+        "latitude": 41.011265,
+        "longitude": 28.948942
+    },
+    {
+        "name": "Metrobüs Zincirlikiyu Beşiktaş",
+        "latitude": 41.06601,
+        "longitude": 29.012144
+    },
+    {
+        "name": "M2 Gayrettepe Metro",
+        "latitude": 41.068924,
+        "longitude": 29.010722
+    },
+    {
+        "name": "M2 Yenikapı",
+        "latitude": 41.005295,
+        "longitude": 28.951697
+    },
+    {
+        "name": "Yenikapı İdo",
+        "latitude": 41.001044,
+        "longitude": 28.948657
+    },
+    {
+        "name": "M1 Havaalanı",
+        "latitude": 41.016567,
+        "longitude": 28.898977
+    },
+    {
+        "name": "Metrobüs Zincirlikuyu Levent",
+        "latitude": 41.06631,
+        "longitude": 29.01384
+    },
+    {
+        "name": "1453 Panaroma Taşındı",
+        "latitude": 41.017416,
+        "longitude": 28.919732
+    },
+    {
+        "name": "M4 Göztepe Metro",
+        "latitude": 40.993797,
+        "longitude": 29.071101
+    },
+    {
+        "name": "M4 Küçükyalı Metro",
+        "latitude": 40.948438,
+        "longitude": 29.122829
+    },
+    {
+        "name": "M4 Gülsuyu",
+        "latitude": 40.92376,
+        "longitude": 29.15502
+    },
+    {
+        "name": "M4 Hastane",
+        "latitude": 40.91709,
+        "longitude": 29.17603
+    },
+    {
+        "name": "Kartal Çeçenistan Parkı",
+        "latitude": 40.88813,
+        "longitude": 29.18763
+    },
+    {
+        "name": "M4 Ayrılık Çeşmesi Metro",
+        "latitude": 41.00027,
+        "longitude": 29.029961
+    },
+    {
+        "name": "Beykoz Korusu",
+        "latitude": 41.13339,
+        "longitude": 29.09704
+    },
+    {
+        "name": "Maltepe Dolgu Alanı 1 ( 4 Kabin)",
+        "latitude": 40.928699,
+        "longitude": 29.118682
+    },
+    {
+        "name": "Maltepe Dolgu Alanı Bayan 3 (50 Kabin)",
+        "latitude": 40.922367,
+        "longitude": 29.124453
+    },
+    {
+        "name": "Hidiv Korusu",
+        "latitude": 41.103973,
+        "longitude": 29.076197
+    },
+    {
+        "name": "Belgrad Ormanı Neşetsuyu 2",
+        "latitude": 41.18775,
+        "longitude": 28.96506
+    },
+    {
+        "name": "Belgrad Ormanı Bentler 1",
+        "latitude": 41.1853,
+        "longitude": 28.98866
+    },
+    {
+        "name": "Belgrad Ormanı Kömürcü Bent",
+        "latitude": 41.20699,
+        "longitude": 28.96359
+    },
+    {
+        "name": "Belgrad Ormanı Fatih Çeşmesi 1",
+        "latitude": 41.169151,
+        "longitude": 28.94374
+    },
+    {
+        "name": "Belgrad Ormanı Fatih Çeşmesi 2",
+        "latitude": 41.16931,
+        "longitude": 28.9466
+    },
+    {
+        "name": "Belgrad Ormanı Neşetsuyu 1",
+        "latitude": 41.186637,
+        "longitude": 28.967956
+    },
+    {
+        "name": "Belgrad Ormanı Bentler 2",
+        "latitude": 41.189427,
+        "longitude": 28.98762
+    },
+    {
+        "name": "Büyükçekmece Kordon Boyu",
+        "latitude": 41.010619,
+        "longitude": 28.599696
+    },
+    {
+        "name": "Bakırköy Meydan",
+        "latitude": 40.981188,
+        "longitude": 28.874057
+    },
+    {
+        "name": "Saraçhane Parkı",
+        "latitude": 41.014912,
+        "longitude": 28.952981
+    },
+    {
+        "name": "PENDİK KURBAN ALANI",
+        "latitude": 40.944624,
+        "longitude": 29.357179
+    },
+    {
+        "name": "Beşiktaş Meydan",
+        "latitude": 41.042085,
+        "longitude": 29.007989
+    },
+    {
+        "name": "GÜNEŞ PLAJI",
+        "latitude": 40.970869,
+        "longitude": 28.789777
+    },
+    {
+        "name": "Ataşehir Kurban Kesim Alanı",
+        "latitude": 40.982437,
+        "longitude": 29.199594
+    },
+    {
+        "name": "Karaköy Yer Altı Camii",
+        "latitude": 41.022509,
+        "longitude": 28.976652
+    },
+    {
+        "name": "Orta Çeşme",
+        "latitude": 41.14814,
+        "longitude": 29.087289
+    },
+    {
+        "name": "Gülhane Parkı Havuz",
+        "latitude": 41.011602,
+        "longitude": 28.978525
+    },
+    {
+        "name": "Osmanlı Park Taşındı",
+        "latitude": 40.99702,
+        "longitude": 28.644196
+    },
+    {
+        "name": "Çırpıcı Parkı",
+        "latitude": 40.999113,
+        "longitude": 28.890531
+    },
+    {
+        "name": "İdealtepe Beltur sahi 2",
+        "latitude": 40.935142,
+        "longitude": 29.112776
+    },
+    {
+        "name": "Marmaray Üsküdar",
+        "latitude": 41.026046,
+        "longitude": 29.014306
+    },
+    {
+        "name": "Sancaktepe Kurban Alanı",
+        "latitude": 41.004492,
+        "longitude": 29.274747
+    },
+    {
+        "name": "VİALAND ALTI TAŞINDI",
+        "latitude": 41.073237,
+        "longitude": 28.913135
+    },
+    {
+        "name": "Caddebostan Büyük Kulüp 1",
+        "latitude": 40.968672,
+        "longitude": 29.051109
+    },
+    {
+        "name": "SİLAHTARAĞA PARKI",
+        "latitude": 41.062293,
+        "longitude": 28.943389
+    },
+    {
+        "name": "EYÜP TELEFERİK",
+        "latitude": 41.050679,
+        "longitude": 28.934438
+    },
+    {
+        "name": "Eyüp Kaptanpaşa",
+        "latitude": 41.047061,
+        "longitude": 28.936634
+    },
+    {
+        "name": "HALİÇ SOSYAL TESİSLER",
+        "latitude": 41.028325,
+        "longitude": 28.956552
+    },
+    {
+        "name": "M1 KİRAZLI",
+        "latitude": 41.03311,
+        "longitude": 28.842359
+    },
+    {
+        "name": "MARMARAY SİRKECİ",
+        "latitude": 41.015203,
+        "longitude": 28.976398
+    },
+    {
+        "name": "MARAMARAY YENİKAPI",
+        "latitude": 41.005139,
+        "longitude": 28.951783
+    },
+    {
+        "name": "MARMARAY KAZLIÇEŞME",
+        "latitude": 40.992678,
+        "longitude": 28.916893
+    },
+    {
+        "name": "ÇIRPICI OTOPARK",
+        "latitude": 41.000392,
+        "longitude": 28.893098
+    },
+    {
+        "name": "ÇIRPICI SPOR PARKI TAŞINDI",
+        "latitude": 40.9958,
+        "longitude": 28.889396
+    },
+    {
+        "name": "Florya Atatürk Ormanı Arka",
+        "latitude": 40.979518,
+        "longitude": 28.784504
+    },
+    {
+        "name": "Florya Atatürk Orman Orta",
+        "latitude": 40.979126,
+        "longitude": 28.790319
+    },
+    {
+        "name": "​Yenikapı Dolgu Alanı Erkek 2",
+        "latitude": 41.000148,
+        "longitude": 28.945048
+    },
+    {
+        "name": "Yenikapı Dolgu Alanı Bayan 2",
+        "latitude": 41.000761,
+        "longitude": 28.94747
+    },
+    {
+        "name": "Yenikapı Dolgu Alanı Bayan 1",
+        "latitude": 41.000937,
+        "longitude": 28.948417
+    },
+    {
+        "name": "Yenikapı Dolgu Alanı Erkek 1",
+        "latitude": 41.001093,
+        "longitude": 28.948794
+    },
+    {
+        "name": "Sefaköy Aktarma",
+        "latitude": 40.999121,
+        "longitude": 28.798459
+    },
+    {
+        "name": "M2 4. Levent Metro",
+        "latitude": 41.086904,
+        "longitude": 29.006917
+    },
+    {
+        "name": "M2 Levent Metro",
+        "latitude": 41.07793,
+        "longitude": 29.013271
+    },
+    {
+        "name": "Kadıköy İett  1",
+        "latitude": 40.99506,
+        "longitude": 29.023568
+    },
+    {
+        "name": "Kadıköy İett 2",
+        "latitude": 40.993657,
+        "longitude": 29.024511
+    },
+    {
+        "name": "Pendik 100.Yıl Parkı",
+        "latitude": 40.877625,
+        "longitude": 29.221584
+    },
+    {
+        "name": "Florya Sosyal Tesis Yanı",
+        "latitude": 40.963346,
+        "longitude": 28.805707
+    },
+    {
+        "name": "Ağva 2",
+        "latitude": 41.13605,
+        "longitude": 29.853161
+    },
+    {
+        "name": "Ağva 1",
+        "latitude": 41.134617,
+        "longitude": 29.840821
+    },
+    {
+        "name": "Yenikapı Yeni Sabit",
+        "latitude": 41.000172,
+        "longitude": 28.939897
+    },
+    {
+        "name": "Taksim Mescid Tuvaleti",
+        "latitude": 41.036491,
+        "longitude": 28.98405
+    },
+    {
+        "name": "CAFERAĞA MAHALLESİ",
+        "latitude": 40.983285,
+        "longitude": 29.025554
+    },
+    {
+        "name": "Eğlence Merkezlerinin olduğu yer",
+        "latitude": 40.986039,
+        "longitude": 29.027884
+    },
+    {
+        "name": "​Yenikapı İdo Protokol",
+        "latitude": 40.999459,
+        "longitude": 28.952965
+    },
+    {
+        "name": "Maltepe Sahil Beltur 2  (4 Kabin)",
+        "latitude": 40.924203,
+        "longitude": 29.123788
+    },
+    {
+        "name": "Maltepe Dolgu Alanı Bay 4 ( 50 Kabin )",
+        "latitude": 40.922197,
+        "longitude": 29.124556
+    },
+    {
+        "name": "Maltepe Oyun Alanı Bay ( 30 Kabin)",
+        "latitude": 40.926229,
+        "longitude": 29.119257
+    },
+    {
+        "name": "Maltepe Oyun Alanı Bayan (30 Kabin )",
+        "latitude": 40.926511,
+        "longitude": 29.119003
+    },
+    {
+        "name": "Dedeoğlu Parkı",
+        "latitude": 41.107087,
+        "longitude": 29.087574
+    },
+    {
+        "name": "Küçüksu Parkı",
+        "latitude": 41.079597,
+        "longitude": 29.068617
+    },
+    {
+        "name": "Mecidiyeköy Meydan Tuvaleti",
+        "latitude": 41.06631,
+        "longitude": 28.994216
+    },
+    {
+        "name": "Maltepe Avşar Kafe",
+        "latitude": 40.916496,
+        "longitude": 29.130585
+    },
+    {
+        "name": "Gülhane Mescit",
+        "latitude": 41.012719,
+        "longitude": 28.980486
+    },
+    {
+        "name": "Florya Atatürk Mescit",
+        "latitude": 40.977906,
+        "longitude": 28.789975
+    },
+    {
+        "name": "Çırpıcı Mescit",
+        "latitude": 41.000062,
+        "longitude": 28.887559
+    },
+    {
+        "name": "Beykoz Korusu Mescit",
+        "latitude": 41.133226,
+        "longitude": 29.096953
+    },
+    {
+        "name": "Şile Liman",
+        "latitude": 41.181522,
+        "longitude": 29.606783
+    },
+    {
+        "name": "M5 Fıstıkağacı",
+        "latitude": 41.028171,
+        "longitude": 29.028542
+    },
+    {
+        "name": "M5 ALTUNİZADE",
+        "latitude": 41.022541,
+        "longitude": 29.04521
+    },
+    {
+        "name": "M5 ÜMRANİYE",
+        "latitude": 41.025163,
+        "longitude": 29.083925
+    },
+    {
+        "name": "M5 Altınşehir",
+        "latitude": 41.016722,
+        "longitude": 29.139855
+    },
+    {
+        "name": "Pendik Meydan",
+        "latitude": 40.875832,
+        "longitude": 29.234326
+    },
+    {
+        "name": "Kent Ormanı 1/1",
+        "latitude": 41.159842,
+        "longitude": 28.891325
+    },
+    {
+        "name": "Kent Ormanı 1/2",
+        "latitude": 41.161154,
+        "longitude": 28.891667
+    },
+    {
+        "name": "Kent ormanı 1/mescit",
+        "latitude": 41.16038,
+        "longitude": 28.891569
+    },
+    {
+        "name": "Kent Ormanı2/1",
+        "latitude": 41.16216,
+        "longitude": 28.882606
+    },
+    {
+        "name": "Kent Ormanı 2/2",
+        "latitude": 41.160064,
+        "longitude": 28.881957
+    },
+    {
+        "name": "Kent Ormanı 2/3",
+        "latitude": 41.16106,
+        "longitude": 28.884848
+    },
+    {
+        "name": "Kent Ormanı 2/ mescit",
+        "latitude": 41.161752,
+        "longitude": 28.883188
+    },
+    {
+        "name": "Irmak Tabiat Parkı",
+        "latitude": 41.171827,
+        "longitude": 28.95754
+    },
+    {
+        "name": "Azerbeycan Dostluk Parkı",
+        "latitude": 41.043569,
+        "longitude": 28.854937
+    },
+    {
+        "name": "Avcılar Güreş Sahası",
+        "latitude": 40.970628,
+        "longitude": 28.720523
+    },
+    {
+        "name": "Otogar Camii",
+        "latitude": 41.038994,
+        "longitude": 28.89253
+    },
+    {
+        "name": "Fethi Paşa Korusu",
+        "latitude": 41.031459,
+        "longitude": 29.026026
+    },
+    {
+        "name": "Mescit",
+        "latitude": 41.055048,
+        "longitude": 28.949064
+    },
+    {
+        "name": "beylikdüzü metrobüs",
+        "latitude": 41.011606,
+        "longitude": 28.651087
+    },
+    {
+        "name": "BAĞLARBAŞI MEYDAN",
+        "latitude": 41.023971,
+        "longitude": 29.036212
+    },
+    {
+        "name": "Kanlıca Beykoz",
+        "latitude": 41.099755,
+        "longitude": 29.065859
+    },
+    {
+        "name": "Yenişehir Osmangazi",
+        "latitude": 40.92501,
+        "longitude": 29.301871
+    },
+    {
+        "name": "Tuzla Sahil",
+        "latitude": 40.813745,
+        "longitude": 29.307739
+    },
+    {
+        "name": "Pendik Muhsin Yazıcıoğlu Parkı",
+        "latitude": 40.880274,
+        "longitude": 29.214673
+    },
+    {
+        "name": "KARTAL İETT",
+        "latitude": 40.886437,
+        "longitude": 29.193978
+    },
+    {
+        "name": "PAŞA LİMANI",
+        "latitude": 41.034086,
+        "longitude": 29.025693
+    },
+    {
+        "name": "Maltepe Tesadüf Kafe",
+        "latitude": 40.911306,
+        "longitude": 29.134098
+    },
+    {
+        "name": "50. YIL KORUSU İDEALTEPE",
+        "latitude": 40.941414,
+        "longitude": 29.122598
+    },
+    {
+        "name": "Ümraniye Osman Gazi Parkı",
+        "latitude": 41.011474,
+        "longitude": 29.16103
+    },
+    {
+        "name": "Bahçelievler Halk Pazarı",
+        "latitude": 40.997207,
+        "longitude": 28.850179
+    },
+    {
+        "name": "DOĞANCILAR PARKI",
+        "latitude": 41.019209,
+        "longitude": 29.012839
+    },
+    {
+        "name": "Çekmeköy Doğa Parkı",
+        "latitude": 41.027732,
+        "longitude": 29.19398
+    },
+    {
+        "name": "Uzunçayır Mescit",
+        "latitude": 40.999244,
+        "longitude": 29.057594
+    },
+    {
+        "name": "Kurtköy Orhan Gazi",
+        "latitude": 40.924715,
+        "longitude": 29.29381
+    },
+    {
+        "name": "Şile terminal",
+        "latitude": 41.171934,
+        "longitude": 29.608486
+    },
+    {
+        "name": "Sultangazi Baraj Üstü",
+        "latitude": 41.101449,
+        "longitude": 28.915876
+    },
+    {
+        "name": "M5 Bağlarbaşı",
+        "latitude": 41.021441,
+        "longitude": 29.037478
+    },
+    {
+        "name": "Hasköy Parkı",
+        "latitude": 41.041533,
+        "longitude": 28.949942
+    },
+    {
+        "name": "Kavacık Aktarma",
+        "latitude": 41.094327,
+        "longitude": 29.095704
+    },
+    {
+        "name": "Uzunçayır Metrobüs",
+        "latitude": 40.998562,
+        "longitude": 29.055325
+    },
+    {
+        "name": "Gölet Parkı",
+        "latitude": 40.953143,
+        "longitude": 29.276248
+    },
+    {
+        "name": "Küçük Çamlıca Korusu",
+        "latitude": 41.020248,
+        "longitude": 29.066992
+    },
+    {
+        "name": "Büyük Çamlıca Korusu",
+        "latitude": 41.026513,
+        "longitude": 29.068065
+    },
+    {
+        "name": "Büyük Çamlıca Korusu Mescit",
+        "latitude": 41.026643,
+        "longitude": 29.068047
+    },
+    {
+        "name": "Beykoz Çayırı",
+        "latitude": 41.141682,
+        "longitude": 29.08537
+    },
+    {
+        "name": "Göztepe Parkı",
+        "latitude": 40.970894,
+        "longitude": 29.059876
+    },
+    {
+        "name": "Beykoz On çeşme",
+        "latitude": 41.134112,
+        "longitude": 29.091755
+    },
+    {
+        "name": "Caddebostan Beltur 3",
+        "latitude": 40.96347,
+        "longitude": 29.064142
+    },
+    {
+        "name": "Şaşkın Bakkal Alt Geçit",
+        "latitude": 40.962562,
+        "longitude": 29.076725
+    },
+    {
+        "name": "Suadiye Beltur",
+        "latitude": 40.955239,
+        "longitude": 29.086603
+    },
+    {
+        "name": "Şaşkın Bakkal Sahil",
+        "latitude": 40.958241,
+        "longitude": 29.07279
+    },
+    {
+        "name": "Caddebostan Minübus Durakları",
+        "latitude": 40.952715,
+        "longitude": 29.095992
+    },
+    {
+        "name": "Pendik Green Park",
+        "latitude": 40.870381,
+        "longitude": 29.252977
+    },
+    {
+        "name": "Kartal Koçtaş",
+        "latitude": 40.891988,
+        "longitude": 29.172154
+    },
+    {
+        "name": "Şehit Ömer Aktuğ Parkı",
+        "latitude": 41.034932,
+        "longitude": 29.175186
+    },
+    {
+        "name": "Moda İskele",
+        "latitude": 40.979829,
+        "longitude": 29.027925
+    },
+    {
+        "name": "Pendik Marmara Park",
+        "latitude": 40.873047,
+        "longitude": 29.226673
+    },
+    {
+        "name": "Kartal Kumcular",
+        "latitude": 40.883963,
+        "longitude": 29.198587
+    },
+    {
+        "name": "Kartal Palmiye Sahil Kafe Yanı",
+        "latitude": 40.896376,
+        "longitude": 29.164639
+    },
+    {
+        "name": "Maltepe Yakamoz Kafe",
+        "latitude": 40.913776,
+        "longitude": 29.132375
+    },
+    {
+        "name": "Pendik Marmara Hastane",
+        "latitude": 40.884977,
+        "longitude": 29.26397
+    },
+    {
+        "name": "Pendik Ersoy Hastane",
+        "latitude": 40.913152,
+        "longitude": 29.297171
+    },
+    {
+        "name": "Küçükyalı Beltur",
+        "latitude": 40.944277,
+        "longitude": 29.10584
+    },
+    {
+        "name": "Kartal Atalar Pelit Kafe",
+        "latitude": 40.89399,
+        "longitude": 29.16884
+    },
+    {
+        "name": "Ataşehir Deniz Gezmiş Parkı",
+        "latitude": 40.999681,
+        "longitude": 29.094979
+    },
+    {
+        "name": "Kartal Özgürlük Parkı",
+        "latitude": 40.886801,
+        "longitude": 29.183194
+    },
+    {
+        "name": "Kartal Dsi",
+        "latitude": 40.901637,
+        "longitude": 29.15283
+    },
+    {
+        "name": "Pendik Beltur Yanı",
+        "latitude": 40.875431,
+        "longitude": 29.23673
+    },
+    {
+        "name": "Florya Sahil Mescit",
+        "latitude": 40.969246,
+        "longitude": 28.793817
+    },
+    {
+        "name": "Caddebostan Plaj 2",
+        "latitude": 40.964054,
+        "longitude": 29.059105
+    },
+    {
+        "name": "Süleymaniye Camii",
+        "latitude": 41.015107,
+        "longitude": 28.964779
+    },
+    {
+        "name": "Florya Atatürk Ormanı",
+        "latitude": 40.977862,
+        "longitude": 28.789716
+    },
+    {
+        "name": "Florya Sahil",
+        "latitude": 40.969151,
+        "longitude": 28.793618
+    },
+    {
+        "name": "Arnavutköy Şehir Parkı",
+        "latitude": 41.179352,
+        "longitude": 28.748788
+    },
+    {
+        "name": "Yeşilköy Marina",
+        "latitude": 40.957184,
+        "longitude": 28.824207
+    },
+    {
+        "name": "Küçükçekmece Göl",
+        "latitude": 41.003595,
+        "longitude": 28.770547
+    },
+    {
+        "name": "Sultanahmet Meydan",
+        "latitude": 41.006816,
+        "longitude": 28.97579
+    },
+    {
+        "name": "Pendik Gözdağı Parkı",
+        "latitude": 40.892758,
+        "longitude": 29.25308
+    },
+    {
+        "name": "Sultamahmet Camii",
+        "latitude": 41.006316,
+        "longitude": 28.97663
+    },
+    {
+        "name": "Alibeyköy Cep Otogarı 1",
+        "latitude": 41.087957,
+        "longitude": 28.944011
+    },
+    {
+        "name": "Rönepark",
+        "latitude": 40.95638,
+        "longitude": 28.832226
+    },
+    {
+        "name": "Ümraniye Sütçü İmam",
+        "latitude": 41.023689,
+        "longitude": 29.096138
+    },
+    {
+        "name": "Nusretiye Camii",
+        "latitude": 41.027356,
+        "longitude": 28.983434
+    },
+    {
+        "name": "Moda Park",
+        "latitude": 40.986241,
+        "longitude": 29.020845
+    },
+    {
+        "name": "Maltepe Altıntepe",
+        "latitude": 40.949295,
+        "longitude": 29.098957
+    },
+    {
+        "name": "Laleli Camii",
+        "latitude": 41.01037,
+        "longitude": 28.956012
+    },
+    {
+        "name": "Florya Atatürk Ormanı Arka",
+        "latitude": 40.980014,
+        "longitude": 28.784946
+    },
+    {
+        "name": "Topkapı Kaleiçi",
+        "latitude": 41.020792,
+        "longitude": 28.927396
+    },
+    {
+        "name": "Eyüp Sultan Camii Yeni Wc",
+        "latitude": 41.047801,
+        "longitude": 28.932122
+    },
+    {
+        "name": "Edirnekapı Mihrimah Sultan Camii",
+        "latitude": 41.029409,
+        "longitude": 28.935216
+    },
+    {
+        "name": "Alibeyköy Cep Otogarı 2",
+        "latitude": 41.087691,
+        "longitude": 28.946781
+    },
+    {
+        "name": "Klıç Ali Paşa Camii",
+        "latitude": 41.026236,
+        "longitude": 28.98087
+    },
+    {
+        "name": "Silivri Sahil Mescit",
+        "latitude": 41.077968,
+        "longitude": 28.237553
+    },
+    {
+        "name": "Baruthane Millet Parkı",
+        "latitude": 40.974682,
+        "longitude": 28.860459
+    },
+    {
+        "name": "Kız Kulesi",
+        "latitude": 41.023084,
+        "longitude": 29.007324
+    },
+    {
+        "name": "Yavuz Selim Camii",
+        "latitude": 41.02728,
+        "longitude": 28.951527
+    },
+    {
+        "name": "Piyalepaşa Camii",
+        "latitude": 41.044843,
+        "longitude": 28.966348
+    },
+    {
+        "name": "Ortaköy Camii",
+        "latitude": 41.047623,
+        "longitude": 29.026875
+    },
+    {
+        "name": "Bebek Parkı",
+        "latitude": 41.076766,
+        "longitude": 29.043745
+    },
+    {
+        "name": "Silivri Sahil",
+        "latitude": 41.078074,
+        "longitude": 28.237425
+    },
+    {
+        "name": "Avcılar KafeYanı denizköşkler",
+        "latitude": 40.971698,
+        "longitude": 28.737798
+    },
+    {
+        "name": "Pertevniyal Valide Sultan Camii",
+        "latitude": 41.010214,
+        "longitude": 28.952294
+    },
+    {
+        "name": "Menekşe Modüler",
+        "latitude": 40.979775,
+        "longitude": 28.770979
+    },
+    {
+        "name": "Fath Camii",
+        "latitude": 41.019702,
+        "longitude": 28.948851
+    },
+    {
+        "name": "Küçükçekmece Tepeüstü Meydan",
+        "latitude": 40.997649,
+        "longitude": 28.777261
+    },
+    {
+        "name": "Ümraniye Atakent Parkı",
+        "latitude": 41.01199,
+        "longitude": 29.106018
+    },
+    {
+        "name": "Yenibosna Aktarma",
+        "latitude": 40.990594,
+        "longitude": 28.838212
+    },
+    {
+        "name": "Ümraniye Mesire Alanı 1",
+        "latitude": 41.040269,
+        "longitude": 29.116014
+    },
+    {
+        "name": "Yenibosna Kavşak",
+        "latitude": 40.993101,
+        "longitude": 28.835229
+    },
+    {
+        "name": "Üsküdar Meydan",
+        "latitude": 41.027777,
+        "longitude": 29.016472
+    },
+    {
+        "name": "Ümraniye Mesire Alanı 2",
+        "latitude": 41.040216,
+        "longitude": 29.116027
+    },
+    {
+        "name": "Avcılar Sosyal Tesisler",
+        "latitude": 40.976079,
+        "longitude": 28.745632
+    },
+    {
+        "name": "Avcılar sahil",
+        "latitude": 40.970695,
+        "longitude": 28.723265
+    },
+    {
+        "name": "Avcılar Sosyal Tesisler Mescit",
+        "latitude": 40.976151,
+        "longitude": 28.745778
+    },
+    {
+        "name": "Beylikdüzü Tüyap Metrobüs",
+        "latitude": 41.022741,
+        "longitude": 28.623729
+    },
+    {
+        "name": "Küçükçekmece Sosyal Tesis Mescit",
+        "latitude": 40.999708,
+        "longitude": 28.76604
+    },
+    {
+        "name": "Küçükçekmece Sosyal Tesisler",
+        "latitude": 40.99974,
+        "longitude": 28.766093
+    },
+    {
+        "name": "Yeşilköy Çiroz Sahil",
+        "latitude": 40.956736,
+        "longitude": 28.813987
+    },
+    {
+        "name": "Gülhane Parkı Modüler",
+        "latitude": 41.012581,
+        "longitude": 28.980625
+    },
+    {
+        "name": "Kent Ormanı Konteyner",
+        "latitude": 41.155136,
+        "longitude": 28.888963
+    },
+    {
+        "name": "Kent Ormanı Oyun alanı",
+        "latitude": 41.144637,
+        "longitude": 28.898513
+    },
+    {
+        "name": "Kent Ormanı Oyun alanı Mescit",
+        "latitude": 41.144532,
+        "longitude": 28.898119
+    },
+    {
+        "name": "Beyoğlu Sütlüce Parkı",
+        "latitude": 41.054371,
+        "longitude": 28.94588
+    },
+    {
+        "name": "Kazlıçeşme Otopark",
+        "latitude": 40.991976,
+        "longitude": 28.918286
+    },
+    {
+        "name": "Menekşe Plaj",
+        "latitude": 40.979615,
+        "longitude": 28.771042
+    },
+    {
+        "name": "Esenler Otogar Yönetim",
+        "latitude": 41.040333,
+        "longitude": 28.894622
+    },
+    {
+        "name": "Menekşe Sahil 2",
+        "latitude": 40.982359,
+        "longitude": 28.76223
+    },
+    {
+        "name": "Çukurpazar Avm",
+        "latitude": 41.008532,
+        "longitude": 28.952576
+    },
+    {
+        "name": "Esenler Otgar A2 Kule",
+        "latitude": 41.041214,
+        "longitude": 28.895899
+    },
+    {
+        "name": "Esenler Otogar Metro İndirme",
+        "latitude": 41.041737,
+        "longitude": 28.894308
+    },
+    {
+        "name": "Esenler Otogar A3 Kule",
+        "latitude": 41.041396,
+        "longitude": 28.893661
+    },
+    {
+        "name": "Esenler Otogar A4 Kule",
+        "latitude": 41.039103,
+        "longitude": 28.893326
+    },
+    {
+        "name": "Esenler otogar A1 Kule",
+        "latitude": 41.038906,
+        "longitude": 28.895418
+    },
+    {
+        "name": "M2 Osmanbey Metro",
+        "latitude": 41.054148,
+        "longitude": 28.98712
+    },
+    {
+        "name": "M2 Taksim Metro",
+        "latitude": 41.036976,
+        "longitude": 28.98579
+    },
+    {
+        "name": "Maçka Teleferik",
+        "latitude": 41.042772,
+        "longitude": 28.989612
+    },
+    {
+        "name": "M7 Mecidiyeköy Batı Metro",
+        "latitude": 41.066121,
+        "longitude": 28.994602
+    },
+    {
+        "name": "M5 Dudullu Metro",
+        "latitude": 41.015677,
+        "longitude": 29.163356
+    },
+    {
+        "name": "M5 Necip Fazıl",
+        "latitude": 41.016494,
+        "longitude": 29.179095
+    },
+    {
+        "name": "M5 Çekmeköy Metro",
+        "latitude": 41.0147,
+        "longitude": 29.18899
+    },
+    {
+        "name": "M4 Huzurevi",
+        "latitude": 40.929769,
+        "longitude": 29.145925
+    },
+    {
+        "name": "M4 Esenkent",
+        "latitude": 40.920411,
+        "longitude": 29.165849
+    },
+    {
+        "name": "M4 Adliye Metro",
+        "latitude": 40.915296,
+        "longitude": 29.182034
+    },
+    {
+        "name": "M4 Soğanlık Metro",
+        "latitude": 40.911831,
+        "longitude": 29.193432
+    },
+    {
+        "name": "M4 Kartal Metro",
+        "latitude": 40.906637,
+        "longitude": 29.21101
+    },
+    {
+        "name": "M4 Pendik Metro",
+        "latitude": 40.888447,
+        "longitude": 29.238884
+    },
+    {
+        "name": "M4 Tavşantepe Metro",
+        "latitude": 40.882596,
+        "longitude": 29.24661
+    },
+    {
+        "name": "M4 Yakacık Metro",
+        "latitude": 40.89594,
+        "longitude": 29.227717
+    },
+    {
+        "name": "M4 Kadıköy Metro",
+        "latitude": 40.991106,
+        "longitude": 29.02093
+    },
+    {
+        "name": "M4 Acıbadem Metro",
+        "latitude": 41.001593,
+        "longitude": 29.045692
+    },
+    {
+        "name": "M4 Ünalan Metro",
+        "latitude": 40.997422,
+        "longitude": 29.059705
+    },
+    {
+        "name": "M4 Yenisahra Metro",
+        "latitude": 40.98467,
+        "longitude": 29.090065
+    },
+    {
+        "name": "M4 Kozyatağı Metro",
+        "latitude": 40.975641,
+        "longitude": 29.099551
+    },
+    {
+        "name": "M4 Bostancı Metro",
+        "latitude": 40.964639,
+        "longitude": 29.104682
+    },
+    {
+        "name": "M4 Maltepe Metro",
+        "latitude": 40.935896,
+        "longitude": 29.139741
+    },
+    {
+        "name": "İdealtepe Sahil 1",
+        "latitude": 40.940418,
+        "longitude": 29.109607
+    },
+    {
+        "name": "Galata Eminönü",
+        "latitude": 41.018031,
+        "longitude": 28.972152
+    },
+    {
+        "name": "Galata Karaköy",
+        "latitude": 41.021806,
+        "longitude": 28.97489
+    },
+    {
+        "name": "Karaköy Yer Altı Çarşı",
+        "latitude": 41.022974,
+        "longitude": 28.975353
+    },
+    {
+        "name": "Topkapı Şehir Parkı",
+        "latitude": 41.020326,
+        "longitude": 28.920565
+    },
+    {
+        "name": "Esenler Otogar Hamidiye 1",
+        "latitude": 41.040429,
+        "longitude": 28.89527
+    },
+    {
+        "name": "Esenler Otogar Hamidiye 2",
+        "latitude": 41.040755,
+        "longitude": 28.895376
+    },
+    {
+        "name": "Sarıyer Liseliler parkı",
+        "latitude": 41.163227,
+        "longitude": 29.049107
+    },
+    {
+        "name": "Emirgan Otopark Wc Ve mescit",
+        "latitude": 41.111036,
+        "longitude": 29.055583
+    },
+    {
+        "name": "Emirgan sarı Köşk Ve Mescit",
+        "latitude": 41.107235,
+        "longitude": 29.053712
+    },
+    {
+        "name": "Emirgan Mescit altı İstnye Bayırı",
+        "latitude": 41.110254,
+        "longitude": 29.050308
+    },
+    {
+        "name": "Feriköy Semt Pazarı",
+        "latitude": 41.056732,
+        "longitude": 28.979907
+    },
+    {
+        "name": "Zincirlikuyu Beşiktaş Mescit",
+        "latitude": 41.065911,
+        "longitude": 29.012102
+    },
+    {
+        "name": "Zincirlikuyu Levent Mescit",
+        "latitude": 41.066293,
+        "longitude": 29.014131
+    },
+    {
+        "name": "Karaburun Plajı",
+        "latitude": 41.338425,
+        "longitude": 28.692305
+    },
+    {
+        "name": "Eyüp Hastane",
+        "latitude": 41.056465,
+        "longitude": 28.941722
+    },
+    {
+        "name": "M7 Karadeniz Mah Doğu Metro",
+        "latitude": 41.081262,
+        "longitude": 28.875043
+    },
+    {
+        "name": "M7 Karadeniz Mah Batı Metro",
+        "latitude": 41.079981,
+        "longitude": 28.875494
+    },
+    {
+        "name": "M7 Göztepe Metro",
+        "latitude": 41.057067,
+        "longitude": 28.846314
+    }
+]
